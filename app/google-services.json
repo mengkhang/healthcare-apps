@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79500531393",
+    "project_id": "healthcareapp-deba5",
+    "storage_bucket": "healthcareapp-deba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79500531393:android:91249f9d29a5c659d0e640",
+        "android_client_info": {
+          "package_name": "com.example.healthcareapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCLZIIu_JgKFVEA6ok9rqpY6ni7k0LZGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

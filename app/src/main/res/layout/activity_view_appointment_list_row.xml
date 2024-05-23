@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/buttonContainer"
+        android:drawableStart="@drawable/ic_account_24dp"
+        android:drawablePadding="8dp"
+        android:text="ma meng khang"
+        android:textSize="18sp" />
+
+    <RelativeLayout
+        android:id="@+id/buttonContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true">
+
+        <Button
+            android:id="@+id/btnCalll"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="Call"
+            />
+
+        <Button
+            android:id="@+id/btnComplete"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btnCalll"
+            android:text="Complete" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textName"
+        android:drawableStart="@drawable/ic_date"
+        android:drawablePadding="8dp"
+        android:text="2024-01-07"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textDate"
+        android:drawableStart="@drawable/ic_clock"
+        android:drawablePadding="8dp"
+        android:text="9am - 9:30am"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textTime"
+        android:drawableStart="@drawable/ic_phone_android_black_24dp"
+        android:drawablePadding="8dp"
+        android:text="0166013180"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textPhone"
+        android:drawableStart="@drawable/ic_local_hospital_black_24dp"
+        android:drawablePadding="8dp"
+        android:text="On site Consultation"
+        android:textSize="16sp" />
+
+</RelativeLayout>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".createNewMed">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/innerLayout">
+
+        <TextView
+            android:id="@+id/titlee"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Create New Medicine"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/innerLayout"
+            app:layout_constraintStart_toStartOf="@+id/innerLayout"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/medNameInputLayout"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="32dp"
+            android:hint="Medicine Name (character and _ only)"
+            app:helperText="Required*"
+            app:helperTextTextColor="@color/red"
+            app:layout_constraintEnd_toEndOf="@+id/innerLayout"
+            app:layout_constraintStart_toStartOf="@+id/innerLayout"
+            app:layout_constraintTop_toBottomOf="@+id/titlee">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/medNameInputEdit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/desInputLayout"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="32dp"
+            android:hint="Description"
+            app:endIconMode="clear_text"
+            app:helperText="Required*"
+            app:helperTextTextColor="@color/red"
+            app:layout_constraintEnd_toEndOf="@+id/innerLayout"
+            app:layout_constraintStart_toStartOf="@+id/innerLayout"
+            app:layout_constraintTop_toBottomOf="@+id/medNameInputLayout">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/desInputEdit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/suitInputLayout"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="32dp"
+            android:hint="Suitable for..."
+            app:endIconMode="clear_text"
+            app:helperText="Required*"
+            app:helperTextTextColor="@color/red"
+            app:layout_constraintEnd_toEndOf="@+id/innerLayout"
+            app:layout_constraintStart_toStartOf="@+id/innerLayout"
+            app:layout_constraintTop_toBottomOf="@+id/desInputLayout">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/suitInputEdit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/avoidInputLayout"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="32dp"
+            android:hint="Avoid it when..."
+            app:helperText="Required*"
+            app:endIconMode="clear_text"
+            app:helperTextTextColor="@color/red"
+            app:layout_constraintEnd_toEndOf="@+id/innerLayout"
+            app:layout_constraintStart_toStartOf="@+id/innerLayout"
+            app:layout_constraintTop_toBottomOf="@+id/suitInputLayout">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/avoidInputEdit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/ringgitInputLayout"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="32dp"
+            android:hint="Price - ringgit"
+            app:helperText="Required*"
+            app:helperTextTextColor="@color/red"
+            app:layout_constraintEnd_toEndOf="@+id/innerLayout"
+            app:layout_constraintStart_toStartOf="@+id/innerLayout"
+            app:layout_constraintTop_toBottomOf="@+id/avoidInputLayout">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/ringgitInputEdit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/senInputLayout"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="32dp"
+            android:hint="Price - sen"
+            app:helperText="Required*"
+            app:helperTextTextColor="@color/red"
+            app:layout_constraintEnd_toEndOf="@+id/innerLayout"
+            app:layout_constraintStart_toStartOf="@+id/innerLayout"
+            app:layout_constraintTop_toBottomOf="@+id/ringgitInputLayout">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/senInputEdit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/selectImagebtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="32dp"
+            android:text="Select Image"
+            android:background="@drawable/rounded_button"
+            app:layout_constraintTop_toBottomOf="@+id/senInputLayout"
+            app:layout_constraintEnd_toEndOf="@+id/innerLayout"
+            app:layout_constraintStart_toStartOf="@+id/innerLayout" />
+
+
+        <ImageView
+            android:id="@+id/firebaseimage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginVertical="30dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="28dp"
+            android:layout_marginEnd="32dp"
+            app:layout_constraintEnd_toEndOf="@+id/innerLayout"
+            app:layout_constraintStart_toStartOf="@+id/innerLayout"
+            app:layout_constraintTop_toBottomOf="@+id/selectImagebtn"
+            app:layout_constraintBottom_toTopOf="@+id/btnCreate"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            tools:srcCompat="@drawable/valide" />
+
+        <Button
+            android:id="@+id/btnCreate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="32dp"
+            android:background="@drawable/rounded_button"
+            android:text="Create"
+            app:layout_constraintEnd_toEndOf="@+id/innerLayout"
+            app:layout_constraintStart_toStartOf="@+id/innerLayout"
+            app:layout_constraintTop_toBottomOf="@+id/firebaseimage" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

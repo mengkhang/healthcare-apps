@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/txtOrderId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_order_id"
+        android:drawablePadding="8dp"
+        android:text="orderdab8209380404eff821fe6bf0dd653260107192306"
+        android:textSize="16sp" />
+
+
+    <TextView
+        android:id="@+id/txtOrderDateTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtOrderId"
+        android:layout_alignParentLeft="true"
+
+        android:drawableStart="@drawable/ic_date"
+        android:drawablePadding="8dp"
+        android:text="January 7, 2024 7:23:06 PM"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/txtStatus_Time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtOrderDateTime"
+        android:layout_alignParentLeft="true"
+
+        android:drawableStart="@drawable/ic_status"
+        android:drawablePadding="8dp"
+        android:text="Order Created - January 7, 2024 7:23:06 PM"
+        android:textSize="16sp" />
+
+<!--    <RelativeLayout-->
+<!--        android:id="@+id/buttonContainer"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_centerVertical="true">-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btnDetail"-->
+<!--            android:layout_width="120dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Details" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btnUpdateStatus"-->
+<!--            android:layout_width="120dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_below="@id/btnDetail"-->
+<!--            android:text="Update Status" />-->
+<!--        <Button-->
+<!--            android:id="@+id/btnComplete"-->
+<!--            android:layout_width="120dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_below="@id/btnUpdateStatus"-->
+<!--            android:text="Complete" />-->
+<!--    </RelativeLayout>-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/textDate"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/txtOrderDateTime"-->
+<!--        android:layout_toLeftOf="@+id/buttonContainer"-->
+<!--        android:drawableStart="@drawable/ic_location"-->
+<!--        android:drawablePadding="8dp"-->
+<!--        android:text="46, jalan pandan indah 5/18 55100 KL"-->
+<!--        android:textSize="16sp" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/textTime"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/textDate"-->
+<!--        android:layout_toLeftOf="@+id/buttonContainer"-->
+<!--        android:drawableStart="@drawable/ic_account_24dp"-->
+<!--        android:drawablePadding="8dp"-->
+<!--        android:text="ma meng khang"-->
+<!--        android:textSize="16sp" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/textPhone"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/textTime"-->
+<!--        android:layout_toLeftOf="@+id/buttonContainer"-->
+<!--        android:drawableStart="@drawable/ic_phone_android_black_24dp"-->
+<!--        android:drawablePadding="8dp"-->
+<!--        android:text="0166013180"-->
+<!--        android:textSize="16sp" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/txtStatus"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/textPhone"-->
+<!--        android:layout_toLeftOf="@+id/buttonContainer"-->
+<!--        android:drawableStart="@drawable/ic_status"-->
+<!--        android:drawablePadding="8dp"-->
+<!--        android:text="order request sent to pharmacy"-->
+<!--        android:textSize="16sp" />-->
+<!--    <TextView-->
+<!--        android:id="@+id/txtTrackingNo"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/txtStatus"-->
+<!--        android:layout_toLeftOf="@+id/buttonContainer"-->
+<!--        android:drawableStart="@drawable/ic_status"-->
+<!--        android:drawablePadding="8dp"-->
+<!--        android:text="Tracking No"-->
+<!--        android:textSize="16sp" />-->
+
+</RelativeLayout>

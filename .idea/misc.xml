@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable-v24/circle_background.xml" value="0.2495" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable-v24/ic_baseline_mic_24.xml" value="0.322" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable-v24/ic_baseline_videocam_24.xml" value="0.322" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2505" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/activity_login_to_call.xml" value="0.322" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/btn_background_1.xml" value="0.322" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/btn_background_2.xml" value="0.322" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/circle_gray.xml" value="0.1945" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/circle_green.xml" value="0.1935" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/custom_dialog.xml" value="0.1955" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_accept.xml" value="0.3155" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_account_24dp.xml" value="0.3305" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_admin_profile_background.xml" value="0.322" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_arrow.xml" value="0.1965" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_baseline_call_end_24.xml" value="0.3155" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_baseline_cameraswitch_24.xml" value="0.3155" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_baseline_delivery_dining_24.xml" value="0.322" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_baseline_mic_off_24.xml" value="0.3155" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_baseline_videocam_off_24.xml" value="0.3155" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_cart.xml" value="0.1885" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_clock.xml" value="0.312" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_date.xml" value="0.3305" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_delete.xml" value="0.1885" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_delivery.xml" value="0.312" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_email.xml" value="0.344" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_error.xml" value="0.1885" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_imgpicker_camera.xml" value="0.312" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.322" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_local_hospital_black_24dp.xml" value="0.1955" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_location.xml" value="0.1195" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_name.xml" value="0.1965" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_password.xml" value="0.1965" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_phone_android_black_24dp.xml" value="0.1965" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_reject.xml" value="0.3155" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_reset.xml" value="0.1965" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_status.xml" value="0.2435" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_telephone.xml" value="0.1965" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/ic_ticks.xml" value="0.312" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/lavender_round.xml" value="0.1955" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/rounded_button.xml" value="0.2505" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/rounded_dialog.xml" value="0.325" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/rounded_textbox_background.xml" value="0.1165" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/drawable/white_box.xml" value="0.1955" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/font/amita.xml" value="0.396875" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/font/roboto_bold.xml" value="0.17870884993587002" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_admin_order_details_pages.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_admin_profile.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_appointment_confirmation.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_appointment_finish_page.xml" value="0.22" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_call.xml" value="0.27635327635327633" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_call2.xml" value="0.22" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_calling.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_cart_list.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_cart_list_row.xml" value="0.18" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_cart_row.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_complete_profile.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_confirm_doctor_details.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_create_new_med.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_doctor_details.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_doctor_list.xml" value="0.2" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_doctor_list_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_doctor_profile.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_doctor_update_profile.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_fragment_main.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_login.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_login_to_call.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_main_activityy.xml" value="0.14792646430098333" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_medicine_details.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_medicine_list.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_medicine_list_row.xml" value="0.22" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_notification_fragment.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_patient_profile.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_patient_update_profile.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_payment_gateway.xml" value="0.2" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_register_new_doc.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_select_appointment_date.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_select_appointment_datetime.xml" value="0.365625" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_select_appointment_datetime_time_row.xml" value="0.15391192817443353" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_select_appointment_time.xml" value="0.22" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_select_appointment_time_row.xml" value="0.19666524155622062" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_select_appointment_type.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_signup.xml" value="0.21348314606741572" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_stepper.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_stepper_test.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_user_profile.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_view_appointment_info.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_view_appointment_list.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_view_appointment_list_row.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_view_appointment_listrow.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_view_upcoming_appointment.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_view_upcoming_appointment_doctor.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_view_upcoming_appointment_doctor_row.xml" value="0.18" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_view_upcoming_appointment_patient.xml" value="0.15476699444206926" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/activity_wizard.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/appointment_type_item.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/cart_row.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/circle_background.xml" value="0.20008550662676358" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/circle_img.xml" value="0.30012825994014536" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/content_wizard.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/curve_background.xml" value="0.20008550662676358" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/dialog_chgps.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/dialog_forgotps.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/doctor_list.xml" value="0.2" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/doctor_list_row.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_admin_order_list.xml" value="0.22" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_admin_order_list_row.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_booking_step3.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_booking_step_one.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_booking_step_two.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_completed_order.xml" value="0.22" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_first.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_incomplete_order.xml" value="0.19495510902094912" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_incomplete_order_row.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_order_list.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_order_main.xml" value="0.22" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_patient_order_list.xml" value="0.22" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/fragment_second.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/image_list_item.xml" value="0.75" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/item_doctor.xml" value="0.264" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/loading_bar.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/login.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/master_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/selectdoctor.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/signup.xml" value="0.264" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/test_fragment_home.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/test_fragment_main.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/test_home_fragment.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/test_settings_fragment.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/tracking_order_input_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/layout/wizard.xml" value="0.33" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/mipmap-anydpi-v26/ic_admin_profile.xml" value="0.3675" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2505" />
+        <entry key="..\:/Users/mingk/Desktop/School/FYP/healthcareApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.243" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://schemas.android.com/tools" location="" />
+    <resource url="urn:oasis:names:tc:xliff:document:1.2" location="" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

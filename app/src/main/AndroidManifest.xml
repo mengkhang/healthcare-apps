@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.healthcareapp" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HealthcareApp"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31" >
+        <activity
+            android:name=".doctor_update_profile"
+            android:exported="false" />
+        <activity
+            android:name=".patient_update_profile"
+            android:exported="false" />
+        <activity
+            android:name=".orderDetailsPages"
+            android:exported="false" />
+        <activity
+            android:name=".fragment.fragment_order_main"
+            android:exported="false" />
+        <activity
+            android:name=".cart_list"
+            android:exported="false" />
+        <activity
+            android:name=".medicine_details"
+            android:exported="false" />
+        <activity
+            android:name=".createNewMed"
+            android:exported="false" />
+        <activity
+            android:name=".medicine_list"
+            android:exported="false" />
+        <activity
+            android:name=".paymentGateway"
+            android:exported="false" />
+        <activity
+            android:name=".doctor_profile"
+            android:exported="false" />
+        <activity
+            android:name=".register_new_doc"
+            android:exported="false" />
+        <activity
+            android:name=".admin_profile"
+            android:exported="false" />
+        <activity
+            android:name=".signup_google"
+            android:exported="false" />
+        <activity
+            android:name=".videoCall.ui.CallActivity"
+            android:exported="true" />
+        <activity
+            android:name=".videoCall.ui.LoginToCallActivity"
+            android:exported="true" />
+        <activity
+            android:name=".user_profile"
+            android:exported="false" />
+        <activity
+            android:name=".view_appointment_list"
+            android:exported="false" />
+        <activity
+            android:name=".select_appointment_type"
+            android:exported="false" />
+        <activity
+            android:name=".confirm_doctor_details"
+            android:exported="false" />
+        <activity
+            android:name=".appointment_finish_page"
+            android:exported="false" />
+        <activity
+            android:name=".view_appointment_info"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="true"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".signup_email"
+            android:exported="false" />
+        <activity
+            android:name=".doctor_list"
+            android:exported="false" />
+        <activity
+            android:name=".stepper"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCcFJbP8wjE9ggMs7OX5P-9BCaGiBTh8Wc" />
+
+        <activity
+            android:name=".MapsActivity"
+            android:exported="false">
+        </activity>
+        <activity
+            android:name=".patient_profile"
+            android:exported="false" />
+    </application>
+
+</manifest>
