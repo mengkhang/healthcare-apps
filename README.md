@@ -3,6 +3,8 @@ Healthcare application (Android version) built with Android Studio Written in Ja
 There are 3 roles in this apps : Patients, Admin, Docotr
 Patient can be register in login pages, Admin id=admin password=123, only Admin can register doctor. 
 
+For payment demo, use card number (4242 4242 4242 4242 4242) with any expire date and postal code
+
 Functionalities: 
 1. Register and login with email or google
 2. Reset password
