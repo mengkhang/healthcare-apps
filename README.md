@@ -1,4 +1,4 @@
-Healthcare application (Android version) built with Android Studio Written in Java and XML;
+Healthcare application (Android version) built with Android Studio Written in Java and XML, data were stored in Firebase;
 
 There are 3 roles in this apps : Patients, Admin, Docotr
 Patient can be register in login pages, Admin id=admin password=123, only Admin can register doctor. 
