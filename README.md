@@ -14,6 +14,6 @@ Functionalities:
 6. Online 1 to 1 meeting between doctor and patients
 7. Add medicine
 8. Online purchase medicine
-9. Integrated third party free payment gateway (
+9. Integrated third party free payment gateway (Stripe free payment gateway api)
 10. View medicine order
 11. Find Nearby Hospital
